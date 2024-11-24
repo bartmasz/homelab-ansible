@@ -1,0 +1,6 @@
+- name: Setup SmartHome
+  hosts: smarthome
+
+  roles:
+    - geerlingguy.pip
+    - geerlingguy.docker

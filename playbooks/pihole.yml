@@ -1,0 +1,4 @@
+- name: Install Pi-Hole
+  hosts: pihole
+  roles:
+    - pihole

@@ -1,0 +1,4 @@
+pihole_admin_password: "YourPasswordHere123"
+pihole_interface: eth0
+pihole_ip_address: 10.0.0.3/24
+pihole_domain: homelab.local

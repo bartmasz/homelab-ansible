@@ -1,0 +1,3 @@
+postgres_version: "16"
+postgres_password: "{{ vault_postgres_password }}"
+mac_ip_address: "{{ vault_mac_ip_address }}"

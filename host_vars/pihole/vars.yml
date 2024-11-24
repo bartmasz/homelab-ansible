@@ -1,0 +1,2 @@
+pihole_admin_password: "{{ vault_pihole_admin_password }}"
+pihole_custom_dns_records: "{{ vault_pihole_custom_dns_records }}"
